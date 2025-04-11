@@ -11,3 +11,7 @@
 ![image](https://github.com/user-attachments/assets/7ed6d2d9-86f4-4841-b0a2-577d2a9c41bc)
 헤더를 통해 memberId(ownerId)와 passward를 입력 받는다.
 ![image](https://github.com/user-attachments/assets/2daed446-7f0e-4e6e-8e36-3f488f3e2de6)
+
+### 게시판 삭제 
+헤더를 통해 소유자와 비밀번호를 확인한 후 삭제한다. 
+![image](https://github.com/user-attachments/assets/8b9e8d01-17c9-44d6-a698-5ea63f24ab78)
